@@ -1,10 +1,10 @@
-import java.util.Scanner;
+importir java.util.Scanner;
 
 
 public class Tugas_Sesi3_MuhammadRafly {
     public static void main(String[] args) {
         System.out.println("=====================================================");
-        System.out.println("- Tugas Perulangan - Sesi ke 3 - Julhan Abdul Malik -");
+        System.out.println("- Tugas Perulangan - Sesi ke 3 - Muhammad Rafly -");
         System.out.println("-----------------------------------------------------");
 
         Scanner input = new Scanner(System.in);
